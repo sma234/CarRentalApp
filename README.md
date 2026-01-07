@@ -12,9 +12,8 @@ Features
 - Data persistence using files
 
 Project Structure
-src/
-api/ //application logic
-gui/ //graphical user interface
+src/api(application logic)
+src/gui(graphical user interface)
 
 How to Run
 1. Open the project in IntelliJ IDEA  
