@@ -1,0 +1,6 @@
+name,surname,username,email,password
+John,Smith,jsmith,john.smith@test.com,password1
+Mary,Jones,mjones,mary.jones@test.com,password2
+Tom,Brown,tbrown,tom.brown@test.com,password3
+Anna,White,awhite,anna.white@test.com,password4
+Luke,Hall,lhall,luke.hall@test.com,password5
