@@ -13,8 +13,8 @@ Features
 
 Project Structure
 src/
-├── api/ //application logic
-└── gui/ //graphical user interface
+api/ //application logic
+gui/ //graphical user interface
 
 How to Run
 1. Open the project in IntelliJ IDEA  
