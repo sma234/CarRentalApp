@@ -1,4 +1,4 @@
-CarRentalApp
+
 Java desktop application developed for the Object-Oriented Programming course  
 at the Department of Informatics, Aristotle University of Thessaloniki(2025–2026).
 
